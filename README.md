@@ -9,12 +9,12 @@ This document includes some useful docker commands to use in our daily lives. Th
 2.	Terminology	
 3.	Installation	
 4.	Docker Commands	
-To compile/build Image	
-To Run Image on Container	
-To Remove Image	
-To Remove Containers	9
-To Remove Volumes	9
-To Check Python Package Versions	10
-To Commit Changes on Image	10
-To leave the container	11
-Interactive Image Building	11
+5.	To compile/build Image	
+6.	To Run Image on Container	
+7.	To Remove Image	
+8.	To Remove Containers	
+9.	To Remove Volumes	
+10.	To Check Python Package Versions	
+11.	To Commit Changes on Image	
+12.	To leave the container	
+13.	Interactive Image Building	
