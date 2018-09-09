@@ -1,7 +1,7 @@
 # dockers-basics
 Docker Basic Commands 
 
-Author: Software Engineer @ [shipshuk](http://www.shipshuk.com)
+Author: Software Engineer @ [shipshuk](http://www.shipshuk.com) - [Online Retail Platform](http://www.shipshuk.com)
 
 This document includes some useful docker commands to use in our daily lives. The index of the document is as following. See the document attached
 
